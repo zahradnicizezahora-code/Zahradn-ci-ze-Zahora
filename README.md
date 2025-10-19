@@ -1,2 +1,2 @@
 # Zahradnci-ze-Zahora
-Stránka ponúkajúca záhradnícke služby
+Stránka ponúkajúca záhradnícke služby...
